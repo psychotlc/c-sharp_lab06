@@ -1,0 +1,17 @@
+/home/narek/Documents/C#/lab06/lab06/bin/Debug/net6.0/lab06
+/home/narek/Documents/C#/lab06/lab06/bin/Debug/net6.0/lab06.deps.json
+/home/narek/Documents/C#/lab06/lab06/bin/Debug/net6.0/lab06.runtimeconfig.json
+/home/narek/Documents/C#/lab06/lab06/bin/Debug/net6.0/lab06.dll
+/home/narek/Documents/C#/lab06/lab06/bin/Debug/net6.0/lab06.pdb
+/home/narek/Documents/C#/lab06/lab06/obj/Debug/net6.0/lab06.csproj.AssemblyReference.cache
+/home/narek/Documents/C#/lab06/lab06/obj/Debug/net6.0/lab06.GeneratedMSBuildEditorConfig.editorconfig
+/home/narek/Documents/C#/lab06/lab06/obj/Debug/net6.0/lab06.AssemblyInfoInputs.cache
+/home/narek/Documents/C#/lab06/lab06/obj/Debug/net6.0/lab06.AssemblyInfo.cs
+/home/narek/Documents/C#/lab06/lab06/obj/Debug/net6.0/lab06.csproj.CoreCompileInputs.cache
+/home/narek/Documents/C#/lab06/lab06/obj/Debug/net6.0/lab06.dll
+/home/narek/Documents/C#/lab06/lab06/obj/Debug/net6.0/refint/lab06.dll
+/home/narek/Documents/C#/lab06/lab06/obj/Debug/net6.0/lab06.pdb
+/home/narek/Documents/C#/lab06/lab06/obj/Debug/net6.0/lab06.genruntimeconfig.cache
+/home/narek/Documents/C#/lab06/lab06/obj/Debug/net6.0/ref/lab06.dll
+/home/narek/Documents/C#/lab06/lab06/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/narek/Documents/C#/lab06/lab06/obj/Debug/net6.0/lab06.csproj.CopyComplete
